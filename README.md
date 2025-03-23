@@ -18,10 +18,10 @@
 
 ## Дар инчо шумо тамоми ашёхои лозима барои хонаи худро харидори карда метавонед.
 ### Ба монанди ин гуна лавозимотхо:
-![](./Parent%20(1).png) 
-![](./Parent%20(2).png)
-![](./Parent%20(3).png)
-![](./Parent%20(4).png)
-![](./Image%20Block.png)
-![](./Image%20Left.png)
-![](./fa9b27255272d76e665cce4314b4aedb.jpg)
+![](./src/Parent%20(1).png) 
+![](./src/Parent%20(2).png)
+![](./src/Parent%20(3).png)
+![](./src/Parent%20(4).png)
+![](./src/Image%20Block.png)
+![](./src/Image%20Left.png)
+![](./src/fa9b27255272d76e665cce4314b4aedb.jpg)
